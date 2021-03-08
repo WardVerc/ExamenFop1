@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Administrator
+comment1.params=
+comment1.target=Administrator()
+comment1.text=\r\n\ De\ constructor\ maakt\ nieuwe\ (veranderlijke\ collecties)\ van\ personeel\ en\ wagens.\r\n
+comment2.params=l
+comment2.target=void\ toevoegenPersoneelslid(Personeelslid)
+comment2.text=\r\n\ Hier\ kan\ je\ Personeelsleden\ toevoegen.\r\n\ @param\ l\ een\ bestaand\ personeelslid\r\n
+comment3.params=w
+comment3.target=void\ toevoegenWagen(Wagen)
+comment3.text=\r\n\ Hier\ kan\ je\ wagens\ toevoegen.\r\n\ @param\ w\ een\ bestaande\ wagen\r\n
+comment4.params=aj
+comment4.target=java.util.ArrayList\ lijstPersoneelInDienst(int)
+comment4.text=\r\n\ Retourneerd\ een\ collectie\ (ArrayList)\ van\ personeelsleden\r\n\ die\ een\ minimim\ aantal\ jaar\ al\ in\ dienst\ zijn.\r\n\ @param\ aj\ minimum\ aantal\ jaar\r\n
+comment5.params=atll
+comment5.target=java.util.ArrayList\ lijstWagensVerbruikMeer(double)
+comment5.text=\r\n\ Geeft\ een\ collectie\ (ArrayList)\ weer\ van\ wagens\ die\ meer\ dan\r\n\ een\ meegegeven\ verbuik,\ verbruiken.\r\n\ @param\ atll\ verbruik\ waarmee\ vergeleken\ wordt\r\n
+comment6.params=c
+comment6.target=double\ gemiddeldAfgelegdeAfstandVanCategorie(Categorie)
+comment6.text=\r\n\ Retourneerd\ de\ (double)\ gemiddelde\ afstand\ van\ de\ wagens\ van\r\n\ de\ personeelsleden\ met\ een\ bepaalde\ categorie.\r\n\ @param\ c\ categorie\ van\ het\ personeelslid\r\n
+numComments=7

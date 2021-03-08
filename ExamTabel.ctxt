@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ExamTabel
+comment1.params=hoeveel
+comment1.target=ExamTabel(int)
+comment1.text=\r\n\ Constructor\ voor\ objects\ van\ class\ ExamTabel\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

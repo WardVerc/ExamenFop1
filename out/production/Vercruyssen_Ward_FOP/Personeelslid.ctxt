@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Personeelslid
+comment1.params=nev\ geb\ inD\ c\ nPlaat
+comment1.target=Personeelslid(java.lang.String,\ java.lang.String,\ int,\ Categorie,\ java.lang.String)
+comment2.params=
+comment2.target=Categorie\ getCategorie()
+comment3.params=
+comment3.target=java.lang.String\ getNummerPlaat()
+comment4.params=
+comment4.target=int\ bepaalLeeftijd()
+comment5.params=
+comment5.target=int\ getGeboortejaar()
+comment6.params=
+comment6.target=int\ aantalDienstjaren()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
